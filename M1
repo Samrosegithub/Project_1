@@ -1,1 +1,21 @@
  clean_data.py
+
+root/
+  |_analyze_data.py
+  |_clean_data.py
+  |_output/
+    |_cleanedRideData.csv
+  |_Resources/
+    |_rideData.csv
+
+[pd2]
+root/
+  |_analyze_data.py
+  |_clean_data.py
+  |_helpers.py
+  |_plot_data.py
+  |_output/
+    |_cleanedRideData.csv
+    |_plots.pdf
+  |_Resources/
+    |_rideData.csv
